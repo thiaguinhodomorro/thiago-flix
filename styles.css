@@ -1,5 +1,8 @@
-body{
-    color:blueviolet
-    backgroudnd:blue
-;
+body {
+    color:blueviolet;
+    background:brown;
+    margin: 0px;
+}
+header {
+  border-bottom: solid 2px white;
 }
